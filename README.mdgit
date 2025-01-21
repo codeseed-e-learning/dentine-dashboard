@@ -1,0 +1,2 @@
+"# dentine-dashboard"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/codeseed-e-learning/dentine-dashboard.gitgit push -u origin main
+"# dentine-dashboard"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/codeseed-e-learning/dentine-dashboard.gitgit push -u origin main
